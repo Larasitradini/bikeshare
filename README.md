@@ -1,1 +1,40 @@
-# bikeshare
+# Belajar Analisis Data dengan Python
+
+## Setup environment
+- Install Visual Studio Code for Editor
+- Execute this command on command line ( as administrator prefered)
+```
+pip install pandas streamlit plotly scikit-learn
+```
+
+## Project installation
+The steps to create your virtual environment from this project is as follows:
+
+1. Clone this repository
+   ```
+   git clone https://github.com/Larasitradini/ADDP/blob/main/bike-sharing-dashboard.py
+   ```
+
+2. Move to directory bike_sharing/submission/dashboard
+   ```
+   cd bike_sharing/submission/dashboard
+   ```
+3. Run streamlit app
+   ```
+   streamlit run bike-sharing-dashboard.py
+
+   or
+
+   streamlit run bike-sharing-dashboard_plotly.py
+   ```
+4. Stop the application program by `ctrl + c`.
+
+
+*Note:*
+In the dashboard folder there are 2 files (.py):
+1. bike-sharing-dashboard.py: visualization using built-in streamlit
+2. bike-sharing-dashboard-plotly.py: visualization using an additional library namely plotly.express, which in my opinion with plotly you can customize the graphics more.
+
+**! There may be differences in directory order, so make sure you enter the correct directory.**
+
+**Thank youuu!!**
