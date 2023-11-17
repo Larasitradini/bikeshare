@@ -1,5 +1,13 @@
 # Belajar Analisis Data dengan Python
 
+## Dataset: Bike Sharing 
+[Bike Sharing Dataset](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view?usp=sharing)
+
+## Streamlit Cloud :
+Streamlit Cloud : [Bike Sharing Dashboard](https://maulanakavaldo-dicoding-bikesharing.streamlit.app/)
+
+![Bike Sharing Dashboard Preview](dashboard/bike_sharing_dashboard.png)
+
 ## Setup environment
 - Install Visual Studio Code for Editor
 - Execute this command on command line ( as administrator prefered)
@@ -12,7 +20,7 @@ The steps to create your virtual environment from this project is as follows:
 
 1. Clone this repository
    ```
-   git clone https://github.com/Larasitradini/ADDP/blob/main/bike-sharing-dashboard.py
+   git clone https://github.com/maulanakavaldo/bike_sharing.git
    ```
 
 2. Move to directory bike_sharing/submission/dashboard
