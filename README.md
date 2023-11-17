@@ -1,7 +1,4 @@
-# Belajar Analisis Data dengan Python
-
-
-
+# Analisis Data dengan Python
 
 ## Setup environment
 - Install Visual Studio Code for Editor
