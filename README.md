@@ -21,7 +21,7 @@ The steps to create your virtual environment from this project is as follows:
    ```
 3. Run streamlit app
    ```
-   streamlit run https://bikeshare-zw6f885wzjp7tbkrbcekru.streamlit.app/
+   streamlit run 3dashboardbikesharing.py
    ```
 
 ## 4. Screenshots
