@@ -34,7 +34,5 @@ The steps to create your virtual environment from this project is as follows:
 
 ![alt text](https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(745).png).png?raw=true)
 
-
-**! There may be differences in directory order, so make sure you enter the correct directory.**
-
+![alt text](https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(746).png).png?raw=true)
 **Thank youuu!!**
