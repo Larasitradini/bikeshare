@@ -24,6 +24,11 @@ The steps to create your virtual environment from this project is as follows:
    streamlit run https://bikeshare-zw6f885wzjp7tbkrbcekru.streamlit.app/
    ```
 
+4. Screenshoot
+   ```
+   ![Alt text](image.png)
+   ```
+
 
 **! There may be differences in directory order, so make sure you enter the correct directory.**
 
