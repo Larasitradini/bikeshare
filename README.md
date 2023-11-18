@@ -16,6 +16,7 @@ The steps to create your virtual environment from this project is as follows:
    ```
 
 2. Move to directory bikeshare
+   ```
    https://github.com/Larasitradini/bikeshare
    ```
 3. Run streamlit app
