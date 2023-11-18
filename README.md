@@ -26,27 +26,15 @@ The steps to create your virtual environment from this project is as follows:
 
 4. Screenshoot
    ```
-   ![Alt text](https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(742).png).png?raw=true)
-
+   ![alt text] (https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(742).png).png?raw=true)
    ```
-
-   ```
-   ![Alt text] (https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(743).png).png?raw=true)
-
-   ```
-
+   ![alt text] (https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(743).png).png?raw=true)
    ```
    ![Alt text] (https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(744).png).png?raw=true)
-
-   ```
-
    ```
    ![Alt text] (https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(745).png).png?raw=true)
-
    ```
-
-   ```
-   ![Alt text] (https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(746).png)
+   ![Alt text] (https://github.com/Larasitradini/bikeshare/blob/main/Screenshot%20(746).png).png?raw=true)
    ```
 
 
